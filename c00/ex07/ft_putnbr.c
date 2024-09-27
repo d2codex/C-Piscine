@@ -6,12 +6,11 @@
 /*   By: diade-so <diade-so@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/25 16:17:35 by diade-so          #+#    #+#             */
-/*   Updated: 2024/09/27 10:22:23 by diade-so         ###   ########.fr       */
+/*   Updated: 2024/09/27 10:25:36 by diade-so         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-#include <stdlib.h>
 
 void	ft_putchar(char c)
 {
